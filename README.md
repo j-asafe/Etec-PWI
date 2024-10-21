@@ -1,2 +1,0 @@
-# Etec-PWI
-Repositório-PWI
